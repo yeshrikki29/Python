@@ -1,4 +1,4 @@
->This repository contains several logical programs written in Python. These programs cover various topics such as conditions, loops, functions, dictionaries, sets, and more. Each program is designed to demonstrate specific concepts and provide examples for learning purposes.
+>This repository contains several [logical programs](https://github.com/yeshrikki29/Python/tree/main/PYTHON/LOGICAL%20PROGRAMS) written in Python. These programs cover various topics such as conditions, loops, functions, dictionaries, sets, and more. Each program is designed to demonstrate specific concepts and provide examples for learning purposes.
 
 ## List of Files
 
